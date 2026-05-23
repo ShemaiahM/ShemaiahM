@@ -1,16 +1,31 @@
-## Hi there 👋
+## Hey there, I'm a Tech Professional 👋
+I am an aspiring Software Developer and Cyber Security Specialist determined to build robust secure digital solutions.
 
-<!--
-**ShemaiahM/ShemaiahM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎓 My Qualifications
+- **Level 3 Diploma in Front-End Development** (Completed June 2025)
+- **Level 3 Diploma in Cyber Security Practices** (Completed Jan 2026)
 
-Here are some ideas to get you started:
+## 🎯 Current Focus
+-🔭 I’m currently working on being a better person and Tech specialist. 
+- 🐍 Mastering Python scripting for automation and security tools.
+-  Projects: Furthur More, creating more applications and Uploading them to Github.
+- 🛡️ Exploring defensive security labs on TryHackMe.
+- 📑 Preparing for the Microsoft SC-900 certification.
+- 🌱 I’m currently learning more about HTML5, CSS3 and Javascript(ES6+).
+- 🤔 I’m looking for help with Cyber Security Knowledge and with Frontend and Backend Programming.
+- ⚡ Fun facts...You'll have to get to know me for these lol
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### 🌐 Front-End Development Skills
+- **Core Languages:** HTML5, CSS3, and JavaScript (ES6+)
+- **Responsive Design:** Building websites that look perfect on both mobile and desktop.
+- **Developer Workflow:** Git, GitHub version control, and browser developer tools.
+- **Projects:** Built functional, interactive web applications during my Level 3 Software Development Bootcamp.
+
+### 🛡️ Cyber Security Skills
+- **Core Concepts:** Network Security, Threat Mitigation, Risk Management, and Compliance.
+- **Hands-On Tools:** Command-line networking utilities (`ipconfig`, `ping`, `tracert`, `nslookup`).
+- **Defensive Practices:** Configuring access controls, understanding secure system architectures, and identifying vulnerabilities & Threats.
+- **Frameworks:** Familiar with enterprise security concepts aligning with fundamental Microsoft security standards (SC-900).
+
+*'The Past code was alreasdy written. Today is a clean repository Con La Brisa'*
