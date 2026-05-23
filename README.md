@@ -28,4 +28,4 @@ I am an aspiring Software Developer and Cyber Security Specialist determined to 
 - **Defensive Practices:** Configuring access controls, understanding secure system architectures, and identifying vulnerabilities & Threats.
 - **Frameworks:** Familiar with enterprise security concepts aligning with fundamental Microsoft security standards (SC-900).
 
-*'The Past code was alreasdy written. Today is a clean repository Con La Brisa'*
+*'The past Code was alreasdy written. Today is a clean repository Con La Brisa'*
