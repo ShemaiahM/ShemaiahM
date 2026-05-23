@@ -8,7 +8,7 @@ I am an aspiring Software Developer and Cyber Security Specialist determined to 
 ## 🎯 Current Focus
 -🔭 I’m currently working on being a better person and Tech specialist. 
 - 🐍 Mastering Python scripting for automation and security tools.
--  Projects: Furthur More, creating more applications and Uploading them to Github.
+-  Projects: Furthur More, creating more applications and Pushinhg them ot Github.
 - 🛡️ Exploring defensive security labs on TryHackMe.
 - 📑 Preparing for the Microsoft SC-900 certification.
 - 🌱 I’m currently learning more about HTML5, CSS3 and Javascript(ES6+).
