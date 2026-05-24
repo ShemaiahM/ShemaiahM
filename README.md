@@ -6,7 +6,7 @@ I am an aspiring Software Developer and Cyber Security Specialist determined to 
 - **Level 3 Diploma in Cyber Security Practices** (Completed Jan 2026)
 
 ## 🎯 Current Focus
--🔭 I’m currently working on being a better person and Tech specialist. 
+🔭 I’m currently working on being a better person and Tech specialist. 
 - 🐍 Mastering Python scripting for automation and security tools.
 -  Projects: Furthur More, creating more applications and Pushinhg them ot Github.
 - 🛡️ Exploring defensive security labs on TryHackMe.
