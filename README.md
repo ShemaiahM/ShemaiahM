@@ -27,5 +27,6 @@ I am an aspiring Software Developer and Cyber Security Specialist determined to 
 - **Hands-On Tools:** Command-line networking utilities (`ipconfig`, `ping`, `tracert`, `nslookup`).
 - **Defensive Practices:** Configuring access controls, understanding secure system architectures, and identifying vulnerabilities & Threats.
 - **Frameworks:** Familiar with enterprise security concepts aligning with fundamental Microsoft security standards (SC-900).
+- **KQL** Getting Familiar with Kusto Query Language, very interesting for Cyber Security.
 
 *'The past Code was already written. Today is a clean repository Con La Brisa'*
