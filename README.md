@@ -23,7 +23,7 @@ I am an aspiring Software Developer and Cyber Security Specialist determined to 
 - **Core Languages:** HTML5, CSS3, and JavaScript (ES6+), Python
 - **Responsive Design:** Building websites that look perfect on both mobile and desktop.
 - **Developer Workflow:** Git, GitHub version control, and browser developer tools.
-- **FrameWorks** Tailwind.
+- **FrameWorks:** Tailwind.
 - **Projects:** Built functional, interactive web applications during my Level 3 Software Development Bootcamp.
 - 
 
