@@ -14,7 +14,6 @@ I am an aspiring Software Developer and Cyber Security Specialist determined to 
 - ✨ Learning more about A.I.
 - 🏗️ Projects: Furthur More, creating more applications and Pushinhg them ot Github.
 - 🛡️ Exploring defensive security labs on TryHackMe.
-- 📑 Preparing for the Microsoft SC-900 certification.
 - 🌐 I’m currently learning more about HTML5, CSS3 and Javascript(ES6+).
 - 🤔 I’m looking for help with Cyber Security Knowledge and with Frontend and Backend Programming.
 - ⚡ Fun facts...You'll have to get to know me for these lol
