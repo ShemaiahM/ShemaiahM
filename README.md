@@ -25,7 +25,7 @@ I am an aspiring Software Developer and Cyber Security Specialist determined to 
 - **Developer Workflow:** Git, GitHub version control, and browser developer tools.
 - **FrameWorks:** Tailwind & React
 - **Projects:** Built functional, interactive web applications during my Level 3 Software Development Bootcamp.
--  **Projects-Continued:** Currently Goingthrough basics of Front-End Development.
+-  **Projects-Continued:** Currently going through basics of Front-End Development.
 
 ### 🛡️ Cyber Security Skills
 - **Core Concepts:** Network Security, Threat Mitigation, Risk Management, and Compliance.
