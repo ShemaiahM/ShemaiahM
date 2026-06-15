@@ -2,8 +2,9 @@
 I am an aspiring Software Developer and Cyber Security Specialist determined to build robust secure digital solutions.
 
 ## 🎓 My Qualifications
-- **Level 3 Diploma in Front-End Development** (Completed June 2025)
+
 - **Level 3 Diploma in Cyber Security Practices** (Completed Jan 2026)
+- **Level 3 Diploma in Front-End Development** (Completed June 2025)
 
 ## 🎯 Current Focus
 - 🔭 I’m currently working on being a better person and Tech specialist. 
