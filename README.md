@@ -20,12 +20,12 @@ I am an aspiring Software Developer and Cyber Security Specialist determined to 
 
 
 ### 🌐 Front-End Development Skills
-- **Core Languages:** HTML5, CSS3, and JavaScript (ES6+), Python
+- **Core Languages:** HTML5, CSS3, and JavaScript (ES6+) & Python.
 - **Responsive Design:** Building websites that look perfect on both mobile and desktop.
 - **Developer Workflow:** Git, GitHub version control, and browser developer tools.
-- **FrameWorks:** Tailwind.
+- **FrameWorks:** Tailwind & React
 - **Projects:** Built functional, interactive web applications during my Level 3 Software Development Bootcamp.
-- 
+-  **Projects-Continued:** Currently Goingthrough basics of Front-End Development.
 
 ### 🛡️ Cyber Security Skills
 - **Core Concepts:** Network Security, Threat Mitigation, Risk Management, and Compliance.
