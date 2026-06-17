@@ -1,4 +1,4 @@
-## Hey there, I'm a Tech Professional 👋
+## Hey there, I'm an Aspiring Tech Professional 👋
 I am an aspiring Software Developer and Cyber Security Specialist determined to build robust secure digital solutions.
 
 ## 🎓 My Qualifications
