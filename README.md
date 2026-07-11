@@ -7,14 +7,14 @@ I am an aspiring Software Developer and Cyber Security Specialist determined to 
 - **Level 3 Diploma in Front-End Development** (Completed June 2025)
 
 ## 🎯 Current Focus
-- 🔭 I’m currently working on being a better person and Tech specialist. 
+- 🔭 I’m currently working on being a better person and Tech specialist.
+- 🌐 I’m currently relearning more about HTML5, CSS3 and Javascript(ES6+).
 - 🐍 Mastering Python scripting for automation and security tools.
 - 🛡️ Exploring defensive security labs on TryHackMe, HackTheBox and KC7.
 - 📑 Preparing for the Microsoft SC-900 certification.
 - ✨ Learning more about A.I.
 - 🏗️ Projects: Furthur More, creating more applications and Pushinhg them ot Github.
 - 🛡️ Exploring defensive security labs on TryHackMe.
-- 🌐 I’m currently relearning more about HTML5, CSS3 and Javascript(ES6+).
 - 🤔 I’m looking for help with Cyber Security Knowledge and with Frontend and Backend Programming.
 - ⚡ Fun facts...You'll have to get to know me for these lol
 
