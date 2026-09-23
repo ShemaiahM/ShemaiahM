@@ -1,6 +1,8 @@
 ## Hey there, I'm an Aspiring Tech Professional 👋
 I am an aspiring Software Developer and Cyber Security Specialist determined to build robust secure digital solutions.
 
+> 🛠️ **Status Update:** Apologies for no commits for 10 weeks+. My brain chemistry decided to have a fallout. Turns out, Depression, Anxiety & other mental health issues are harder to debug than bad JavaScript... Thanks for your patience while I recompile.
+
 ## 🎓 My Qualifications
 
 - **Level 3 NCFE in Cyber Security Practices** (Completed Jan 2026)
